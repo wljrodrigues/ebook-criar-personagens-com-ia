@@ -17,7 +17,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto E-BOOK Gerado com Auxílio de I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
@@ -42,7 +42,7 @@ ChatGPT：
 |   Ação   | alguns prompt usados |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie ideias de títulos para um livro digital que fale sobre inteligência artificial voltadas para criação de imagens de personagens para livros literários.                                                         |
-| conteúdo | A partir do conteúdo a seguir faça as melhorias necessárias em cada trecho que estarei colando a seguir para que esteja de acordo com as normas gramaticais e coerente com os assuntos tratados. Fique a vontade para complementar informações que julgar pertinentes ao assunto, bem como sugirir correções ou atualizações no conteúdo |
+| conteúdo | A partir do conteúdo a seguir faça as melhorias necessárias em cada trecho que estarei colando a seguir para que esteja de acordo com as normas gramaticais e coerente com os assuntos tratados. Fique a vontade para complementar informações que julgar pertinentes ao assunto, bem como sugerir correções ou atualizações no conteúdo |
 
 
 Stable Diffusion：

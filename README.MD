@@ -20,73 +20,61 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. A seguir alguns prompts
+utilizados para auxiliar na criação desse e-book.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="././output/ebook_como_criar_personagens_por_ia_v2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>output
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Stable Diffusion](https://stability.ai/stable-image)
+- [Microsoft Word](https://www.microsoft.com/en/microsoft-365/)
+- [Avião Papel - Editor de Livros Infantis Online](https://aviaopapel.com.br/)
 
 ## 🧠 Prompts
 
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | alguns prompt usados |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie ideias de títulos para um livro digital que fale sobre inteligência artificial voltadas para criação de imagens de personagens para livros literários.                                                         |
+| conteúdo | A partir do conteúdo a seguir faça as melhorias necessárias em cada trecho que estarei colando a seguir para que esteja de acordo com as normas gramaticais e coerente com os assuntos tratados. Fique a vontade para complementar informações que julgar pertinentes ao assunto, bem como sugirir correções ou atualizações no conteúdo |
 
 
-Midjourney：
+Stable Diffusion：
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | alguns prompts utilizados para criação de capa     |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| imagens de capa | cute cat character, character sheet, multiple poses and expressions, children's book illustration style, blue sneakers, red jacket --no outline --ar 16:9  |
+| imagem de capa | a girl, black hair, face expression sheet, white background, multiple emotions, 8k, ultra detailed --no outline --ar 16:9 |
+| imagem de capa |  a boy in the [aqui você escreve o local, exempplo: space], no physical deformities, stylize 2500, quality 1.5, chaos 4, Unreal Engine, DSLR::1, uplight, 8k |
+| imagem de capa | fashion girl, red hair, cartoon style, reference sheet, full body, character model, ultra detailed, 8k  |
+| imagem de capa | Cute astronaut cat, concept art, green and black outfits, 3d blender render, 8k  |
+| imagem de capa | A cute jaguar, disney pixar style style, white background, coloring line art, drawings for kids, cool coloring pages, coloring book art, coloring book page style vector lines, 8k |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Pesquisa de conteúdo via ChatGPT
+- Imagens geradas via Stable Diffusion
+- Diagramação do miolo do livro no Microsoft Word
+- Criação de layout de capa no CorelDRAW
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook criado e publicado disponível na pasta `output` 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Consulte o ebook para conhecer diversos prompts e dicas de estruturação de prompts para criação de personagens por IA. Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação. 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+
+   <p>
+    Walter Rodrigues
+    <a href="https://github.com/wljrodrigues"> | Meu GitHub</a> 
 </p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)

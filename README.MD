@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. A seguir alguns prompts
 utilizados para auxiliar na criação desse e-book.
 
-<a href="././output/ebook_como_criar_personagens_por_ia_v2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>output
+<a href="././output/ebook_como_criar_personagens_por_ia_v2.pdf" title="View PDF now"> 📕 Acessar E-book Agora!</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
